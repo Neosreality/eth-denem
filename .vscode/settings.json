@@ -1,0 +1,7 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\Tmira\\esp\\v4.3.1\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\Tmira\\.espressif",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM4"
+}

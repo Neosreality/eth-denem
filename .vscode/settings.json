@@ -3,5 +3,6 @@
     "idf.espIdfPathWin": "C:\\Users\\Tmira\\esp\\v4.3.1\\esp-idf",
     "idf.toolsPathWin": "C:\\Users\\Tmira\\.espressif",
     "idf.flashType": "UART",
-    "idf.portWin": "COM4"
+    "idf.portWin": "COM7",
+    "C_Cpp.errorSquiggles": "disabled"
 }
